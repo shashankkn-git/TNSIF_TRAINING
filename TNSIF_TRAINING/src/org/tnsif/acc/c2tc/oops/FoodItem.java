@@ -15,6 +15,7 @@ public class FoodItem {
 		fooditem1.price=60.66;
 		fooditem1.category="tiffen";
 		fooditem1.displayDetails();
+		
 		FoodItem fooditem2=new FoodItem();
 		fooditem2.name="biriyani";
 		fooditem2.price=65.55;
