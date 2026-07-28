@@ -27,11 +27,8 @@ class Human {
 }
 
     public class EncapsulationDemo {
-
         public static void main(String[] args) {
-
             Human obj = new Human();
-
             obj.setName("Shashank");
             obj.setAge(26);
 
