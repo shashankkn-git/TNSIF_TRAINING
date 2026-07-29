@@ -41,9 +41,7 @@ public class PaymentTest {
 		payment=new CardPayment();
 		payment.makePayment();
 		
-		
 		payment=new WalletPayment();
 		payment.makePayment();
 	}
-
 }
