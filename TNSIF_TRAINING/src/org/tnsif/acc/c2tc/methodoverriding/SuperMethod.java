@@ -25,4 +25,4 @@ public class SuperMethod {
 		Gpay obj=new Gpay();
 		obj.CompleteTransaction();
 	}
-	}
+}
