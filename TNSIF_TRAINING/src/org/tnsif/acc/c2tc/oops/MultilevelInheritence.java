@@ -29,7 +29,5 @@ public class MultilevelInheritence {
 		smart.deviceType();
 		smart.brand();
 		smart.feature();
-
 	}
-
 }
