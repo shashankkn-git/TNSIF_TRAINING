@@ -34,11 +34,6 @@ public class ThisKeyword{
 		person.getName();
 		person.getAge();
 		person.displayDetails();
-		person.setName("Tejas");
-		person.setAge(24);
-		person.getName();
-		person.getAge();
-		person.displayDetails();
 	}
 
 }
