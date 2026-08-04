@@ -11,6 +11,9 @@ public class ScannerClassdemo {
 		 double salary =sc.nextDouble();
 		 System.out.println("Enter your balance");
 		 float balance = sc.nextFloat();
+		 System.out.println("enter your phone number: ");
+		 long number = sc.nextLong();
+		 sc.nextLine();
 		 System.out.print("do you have other bank account: ");
 	     boolean value = sc.nextBoolean();
 		 System.out.print("Enter a character: ");
@@ -20,6 +23,7 @@ public class ScannerClassdemo {
 		 System.out.println("salry is :" + salary);
 		 System.out.println("balance is :"+balance);
 		 System.out.println("yes or no = " + value);
+		 System.out.println("phone number is: "+number);
          System.out.print("Enter a character: ");
          System.out.println("You entered: " + ch);
          sc.close();
