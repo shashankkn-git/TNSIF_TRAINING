@@ -9,7 +9,5 @@ public class ScannerCharDemo {
 		 char c = scan.next().charAt(1);
 		 System.out.println("The second char in a string"+ c);
 		 scan.close();
-
 	}
-
 }
